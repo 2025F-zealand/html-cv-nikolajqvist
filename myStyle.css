@@ -3,6 +3,45 @@
 h1 { 
     background-color: rgb(50, 28, 70);
     color: white;
-    }
+    text-align: center;
+}
+h2 {
+    font-size:  50px;
+    text-align: center;
+}
+p {
+    font-size:  30px;
+    text-align: center;
+    color: brown;
+}
+.pic {
+    background-color: tomato;
+    color:chartreuse;
+}
+.pro {
+    background-color:aqua;
+    color:black;
+}
+.nam {
+    background-color: coral;
+    color:aquamarine
+}
+.edu {
+    background-color: turquoise;
+    color:bisque
+}
+.int {
+    background-color: coral;
+    color:cornsilk
+}
+.wor {
+    background-color: aliceblue;
+    color:chocolate;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 
